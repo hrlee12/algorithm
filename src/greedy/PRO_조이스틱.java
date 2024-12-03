@@ -1,4 +1,4 @@
-package Greedy;
+package greedy;
 
 /*
 조이스틱을 움직이는 횟수를 정하는 것이 핵심인 문제
@@ -20,7 +20,7 @@ A가 아닌 녀석들을 기준으로 2,3번 검사를 해준다.
 
 
 import java.util.*;
-public class 조이스틱 {
+public class PRO_조이스틱 {
 
 
 

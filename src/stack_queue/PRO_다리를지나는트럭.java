@@ -1,8 +1,8 @@
-package 스택_큐;
+package stack_queue;
 
 import java.util.*;
 
-public class 다리를지나는트럭 {
+public class PRO_다리를지나는트럭 {
 
 	class Solution {
 		public static int solution(int bridge_length, int weight, int[] truck_weights) {

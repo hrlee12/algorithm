@@ -1,8 +1,8 @@
-package 스택_큐;
+package stack_queue;
 
 import java.util.*;
 
-public class 올바른괄호 {
+public class PRO_올바른괄호 {
 	public static void main(String[] args) {
 
 	}

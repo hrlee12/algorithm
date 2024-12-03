@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class 의상 {
+public class PRO_의상 {
 	public static void main(String[] args) {
 		int result = Solution.solution(new String[][]{{"yellow_hat", "headgear"}, {"blue_sunglassed", "eyewear"}, {"green_turban", "headgear"}});
 		System.out.println(result);

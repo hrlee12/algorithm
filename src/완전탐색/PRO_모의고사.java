@@ -1,7 +1,7 @@
 package 완전탐색;
 
 import java.util.*;
-public class 모의고사 {
+public class PRO_모의고사 {
 
 
 

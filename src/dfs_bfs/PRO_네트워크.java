@@ -1,6 +1,6 @@
-package DFS_BFS;
+package dfs_bfs;
 
-public class 네트워크 {
+public class PRO_네트워크 {
     public static void main(String[] args) {
         int result = Solution.solution(3, new int[][]{{1, 1, 0}, {1, 1, 1}, {0, 1, 1}});
         System.out.println(result);

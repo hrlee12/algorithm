@@ -3,7 +3,7 @@ package 해쉬;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 전화번호목록 {
+public class PRO_전화번호목록 {
 	public static void main(String[] args) {
 		boolean result = Solution.solution(new String[]{"123","456","789"});
 		System.out.println(result);

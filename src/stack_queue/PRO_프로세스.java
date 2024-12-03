@@ -1,7 +1,7 @@
-package 스택_큐;
+package stack_queue;
 import java.util.*;
 
-public class 프로세스 {
+public class PRO_프로세스 {
 	public static void main(String args[]) {
 		System.out.println(Solution.solution(new int[]{1, 1, 9, 1, 1, 1}, 0));
 	}

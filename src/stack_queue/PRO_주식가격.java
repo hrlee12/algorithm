@@ -1,4 +1,4 @@
-package 스택_큐;
+package stack_queue;
 
 
 /*
@@ -12,7 +12,7 @@ package 스택_큐;
 
 
 import java.util.*;
-public class 주식가격 {
+public class PRO_주식가격 {
 	public static void main(String[] args) {
 
 	}

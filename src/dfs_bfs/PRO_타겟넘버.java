@@ -1,8 +1,8 @@
-package DFS_BFS;
+package dfs_bfs;
 
 
 
-public class 타겟넘버 {
+public class PRO_타겟넘버 {
 
 	public static void main(String[] args) {
 		System.out.println(Solution.solution(new int[]{4 ,1, 2, 1} ,4));

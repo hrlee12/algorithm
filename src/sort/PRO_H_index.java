@@ -16,7 +16,7 @@ package sort;
 
 import java.util.*;
 
-public class H_index {
+public class PRO_H_index {
 
     public static void main(String[] args) {
         System.out.println(Solution.solution(new int[]{0, 2, 4, 5, 5}));
@@ -24,7 +24,7 @@ public class H_index {
 
 
     class Solution {
-        public int solution(int[] citations) {
+        public static int solution(int[] citations) {
 
             // 일일이 다 확인하면 시간 초과
             // 정렬해서 인덱스로 비교하면 몇번 이상 인용된게 몇개인지 바로 알 수 있음.

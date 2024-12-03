@@ -1,9 +1,9 @@
-package DFS_BFS;
+package dfs_bfs;
 
 import java.util.LinkedList;
 import java.util.List;
 
-public class 게임맵최단거리_BFS {
+public class PRO_게임맵최단거리_BFS {
 
 	public static void main(String args[]) {
 		System.out.println(

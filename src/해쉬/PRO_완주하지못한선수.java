@@ -3,7 +3,7 @@ package 해쉬;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 완주하지못한선수 {
+public class PRO_완주하지못한선수 {
 
 	public static void main(String[] args) {
 		String result = Solution.solution(new String[]{"mislav", "stanko", "mislav", "ana"}, new String[]{"stanko", "ana", "mislav"});

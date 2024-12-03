@@ -1,8 +1,8 @@
+package etc;
+
 import java.util.*;
-import java.io.*;
 
-
-public class 가장큰수 {
+public class PRO_가장큰수 {
 	public static void main(String args[]) {
 		System.out.println("hi");
 	}

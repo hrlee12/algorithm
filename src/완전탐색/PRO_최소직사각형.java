@@ -1,6 +1,6 @@
 package 완전탐색;
 
-public class 최소직사각형 {
+public class PRO_최소직사각형 {
 
 	class Solution {
 		public int solution(int[][] sizes) {

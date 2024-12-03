@@ -1,7 +1,7 @@
-package 힙;
+package heap;
 
 import java.util.*;
-public class 이중우선순위큐 {
+public class PRO_이중우선순위큐 {
 
 	public static void main(String[] args){}
 

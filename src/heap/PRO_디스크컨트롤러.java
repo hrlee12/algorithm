@@ -1,7 +1,7 @@
-package 힙;
+package heap;
 
 import java.util.*;
-public class 디스크컨트롤러 {
+public class PRO_디스크컨트롤러 {
 	public static void main(String args[]){
 
 	}

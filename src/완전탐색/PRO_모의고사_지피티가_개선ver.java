@@ -3,7 +3,7 @@ package 완전탐색;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 모의고사_지피티가_개선ver {
+public class PRO_모의고사_지피티가_개선ver {
 
 	public class Solution {
 		public int[] solution(int[] answers) {

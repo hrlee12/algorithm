@@ -1,4 +1,4 @@
-package DFS_BFS;
+package dfs_bfs;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -22,7 +22,7 @@ import java.util.List;
 
 
  */
-public class 단어변환 {
+public class PRO_단어변환 {
 
     public static void main(String[] args) {
         int result = Solution.solution("mix", "gap", new String[]{"max", "map", "gap", "mag", "mex"});

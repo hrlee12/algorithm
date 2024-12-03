@@ -1,4 +1,4 @@
-package DFS_BFS;
+package dfs_bfs;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-public class 여행경로 {
+public class PRO_여행경로 {
 
 	public static void main(String[] args) {
 		String[] result = Solution.solution(new String[][]{{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}});

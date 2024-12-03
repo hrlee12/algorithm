@@ -2,7 +2,7 @@ package 완전탐색;
 
 import java.util.*;
 
-public class 소수찾기 {
+public class PRO_소수찾기 {
 
 
 	class Solution {

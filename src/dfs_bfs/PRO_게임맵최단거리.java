@@ -1,6 +1,6 @@
-package DFS_BFS;
+package dfs_bfs;
 
-public class 게임맵최단거리 {
+public class PRO_게임맵최단거리 {
 	public static void main(String[] args) {
 
 		int result = Solution.solution(new int[][]{{1,0,1,1,1},{1,0,1,0,1},{1,0,1,1,1},{1,1,1,0,1},{0,0,0,0,1}});

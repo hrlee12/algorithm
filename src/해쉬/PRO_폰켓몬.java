@@ -3,7 +3,7 @@ package 해쉬;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 폰켓몬 {
+public class PRO_폰켓몬 {
 	public static void main(String[] args) {
 
 		int result = Solution.solution(new int[]{3, 3, 3, 2, 2, 2});

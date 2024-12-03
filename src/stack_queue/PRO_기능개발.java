@@ -1,7 +1,7 @@
-package 스택_큐;
+package stack_queue;
 
 import java.util.*;
-public class 기능개발 {
+public class PRO_기능개발 {
 	public static void main(String[] args) {}
 
 
